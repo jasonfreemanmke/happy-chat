@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "690829776382",
+    "firebase_url": "https://chat-d216a.firebaseio.com",
+    "project_id": "chat-d216a",
+    "storage_bucket": "chat-d216a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690829776382:android:9187314087e31864",
+        "android_client_info": {
+          "package_name": "edu.matc.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690829776382-f661ugss35pg82hlsn8sbc4hvg16fb9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXNWl12f6_ZvKLfEzy4F91rlYmrBcsogw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

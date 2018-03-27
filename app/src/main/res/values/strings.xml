@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Chat</string>
+    <string name="btnSend">Send</string>
+    <string name="btnAddRoom">Add Room</string>
+    <string name="hintNewRoom">Enter a new room Name</string>
+    <string name="hintMessage">Type Message Here</string>
+    <string name="imgDescription">Main Image</string>
+</resources>
